@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_height">100dp</dimen>
+    <dimen name="standard_padding">8dp</dimen>
+    <dimen name="standard_margin">20dp</dimen>
+    <dimen name="standard_margin_double">40dp</dimen>
+    <dimen name="standard_margin_big">60dp</dimen>
+    <dimen name="standard_radius">50dp</dimen>
+    <dimen name="space">5dp</dimen>
+</resources>

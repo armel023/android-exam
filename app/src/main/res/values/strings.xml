@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RandomUser</string>
+    <string name="error_text">Loading data failed.</string>
+    <string name="content_des_user_img">User image</string>
+    <string name="label_birthday">Birthday: </string>
+    <string name="label_age">Age: </string>
+    <string name="label_email">Email: </string>
+    <string name="label_mobile">Mobile No.: </string>
+    <string name="label_street">Street: </string>
+    <string name="label_city">City: </string>
+    <string name="label_state">State: </string>
+    <string name="label_country">Country: </string>
+    <string name="label_postcode">Post code: </string>
+</resources>
